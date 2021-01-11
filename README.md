@@ -1,4 +1,4 @@
-# Learning-Styles-prediction
+# A Predictive Model for the Identification of Learning Styles in MOOC Environments
 The objective of this study is to predict learners’ learning styles based on their learning traces. 
 # Dataset
 The data used in this study were collected from an edX course entitled “Statistical Learning” conducted in Winter
