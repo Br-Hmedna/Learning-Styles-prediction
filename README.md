@@ -7,3 +7,5 @@ Research through Online Learning (CAROL). Data were anonymized to protect the pr
 The course lasted nine weeks and consisted of lecture videos, problems and a discussion forum. Table
 1 shows the most relevant information about this dataset, indicating the number of enrolled learners and
 events left by learners.
+
+# Methodology
