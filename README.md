@@ -9,3 +9,7 @@ The course lasted nine weeks and consisted of lecture videos, problems and a dis
 events left by learners.
 
 # Methodology
+![](methodology.png)
+the overall architecture of our proposed method, consists of five main phases:
+## Data collection:
+The database of the current study were collected from an edX course entitled “Statistical Learning (Session Winter 2015 and Winter 2016)”, administered via Stanford’s Logunita platform. The sequential activities performed by each learner during each session were collected.
