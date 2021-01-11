@@ -9,6 +9,10 @@ The course lasted nine weeks and consisted of lecture videos, problems and a dis
 events left by learners.
 
 # Methodology
+The code used in our analysis was written in a Jupyter Notebook using the Python programming language. The
+Numpy, pandas and scipy libraries were used for data preprocessing and manipulation, Matplotlib for data visualization
+and scikit-learn for implementing both the supervised and unsupervised machine learning algorithms. 
+The hardware used for this implementation was a machine with i7-5600U CPU (2.6 GHz) and 8 GB of RAM.
 the overall architecture of our proposed method, consists of five main phases:
 ![](methodology.png)
 
